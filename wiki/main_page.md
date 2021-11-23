@@ -2,7 +2,25 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# いらます
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+캐릭터가 내 취향인 코레 겜 일러스트 모아놓은 공간
 
+## 그래서 뭐 들어감
+
+* 밀리시타, 밀리마스
+* 데레스테, 데레마스
+* 샤니마스
+* 스쿠페스, 스쿠스타
+* 뱅드림
+* D4DJ
+* 프로세카
+* 탄막카구라
+* 걸판
+* 라스트오리진
+* 벽람항로
+* 칸코레
+
+## 이외 또 넣을 생각이 있는 거
+
+* 블루 아카이브
